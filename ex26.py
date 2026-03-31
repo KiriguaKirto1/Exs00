@@ -17,5 +17,3 @@ elif opcao == 3:
     print("Valor: R$ 8.00")
 else:
     print("Opção inválida")
-
-#atividade encerrou aqui por enquanto
